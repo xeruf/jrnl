@@ -15,24 +15,23 @@ Please fill out the points below, as it will make our process much easier.
 
 <!-- Please tell us about your environment -->
 ### Environment
-  - `jrnl --diagnostic` output: <!-- Run the command and paste the output here -->
+  - `jrnl --diagnostic` output:
+    ```sh
+
+    ```
   - Install method: <!-- How did you install jrnl? (pipx, brew, etc) -->
 
 ### Current Behavior
-<!--
-Please put a short description of what is currently happening.
--->
+<!--A short description of what is currently happening. -->
 
 ### Expected Behavior
-<!--
-Please write a short description of what you would expect to happen
-(instead of what is currently happening).
--->
+<!-- A short description of what you would expect to happen (rathern than what is currently happening). -->
 
-### Repro Steps
+### Reproduction Steps
 <!--
-Please provide the steps to reproduce the problem. It is important for you to
-be as precise as possible here, since more info will let us help you faster.
+Please provide step-by-step directions to reproduce the problem.
+It is important for you to be as precise as possible here,
+since more info will let us help you faster.
 If applicable, please run jrnl with --debug and paste the output.
 -->
 
